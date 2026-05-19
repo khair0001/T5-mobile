@@ -21,11 +21,14 @@
 <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/2bba3be5-74e6-4ad9-a1f0-fb338369814c" />
 
 ### Screenshot Tugas 5 CRUD (selesai)
-3. Halaman home
+1. Halaman home
 <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/4bac6f40-5f46-401a-81db-029bb9781a92" />
 
-3. hapus data 
+2. hapus data 
 <img width="1080" height="479" alt="image" src="https://github.com/user-attachments/assets/157c0f41-7855-4ff5-80be-5fcf9949f037" />
+
+3. button create
+<img width="738" height="1600" alt="image" src="https://github.com/user-attachments/assets/f6e370a1-0db2-4b85-ad1f-b5a58d900a03" />
 
 4. tambahkan data pasien
 <img width="1080" height="2340" alt="image" src="https://github.com/user-attachments/assets/21f2778c-7d06-4a18-8a49-450f7b86efd1" />
